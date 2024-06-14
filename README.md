@@ -1,2 +1,3 @@
 # Py4Finance
-data science projects in the financial domain
+
+Data science projects leveraging advanced statistical and machine learning techniques to solve challenges in the financial sector.
